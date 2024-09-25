@@ -16,6 +16,14 @@ body {
     margin-bottom: 0px;
 }
 
+.center-link {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
 .gif_container {
     display: flex;
     justify-content: center;
